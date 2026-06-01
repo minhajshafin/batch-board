@@ -1,3 +1,0 @@
-# Ignore all files inside docs/ but keep the directory tracked via .gitkeep
-/docs/*
-!/docs/.gitkeep
